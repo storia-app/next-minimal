@@ -1,0 +1,18 @@
+{
+  "id": "next-minimal",
+  "name": "Minimal",
+  "framework": "next",
+  "design": "minimal",
+  "tier": "free",
+  "description": "Next.js exportado como sitio estático. Simple y rápido.",
+  "previewUrl": "https://storia-templates.github.io/next-minimal/",
+  "screenshots": [],
+  "features": [
+    "Resaltado de código",
+    "RSS",
+    "Export estático"
+  ],
+  "contentPath": "posts/{{ slug }}.md",
+  "frontmatterTemplate": "title: \"{{ title }}\"\ndate: \"{{ published_at_iso }}\"\nexcerpt: \"{{ excerpt }}\"\ntags: [{{ tags_yaml_array }}]\ncoverImage: \"{{ seo_image }}\"",
+  "pagesBuild": "workflow"
+}
