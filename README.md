@@ -2,7 +2,7 @@
 
 Next.js exportado como sitio estático. Simple y rápido.
 
-Plantilla de blog de [Storia](https://github.com/storia-app). Demo: https://storia-templates.github.io/next-minimal/
+Plantilla de blog de [Storia](https://github.com/storia-app). Demo: https://storia-app.github.io/next-minimal/
 
 - Resaltado de código
 - RSS
